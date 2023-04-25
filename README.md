@@ -6,12 +6,20 @@ Customer personality analysis helps a business to modify its product based on it
 
 Steps I performed in this notebook are as following:
 IMPORTING LIBRARIES
+
 LOADING DATA
+
 DATA CLEANING
+
 DATA PREPROCESSING
+
 DIMENSIONALITY REDUCTION
+
 CLUSTERING
+
 EVALUATING MODELS
+
 PROFILING
+
 CONCLUSION
 
